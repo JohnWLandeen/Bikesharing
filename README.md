@@ -17,16 +17,16 @@ This heatmap displays popular times of use for the NYC bike-sharing program for 
 ![alt text](Resources/Trips_by_Weekday_per_Hour.PNG)
 
 This heatmap gives us an idea on popular times for bike use relevent to each gender category.
-![alt text](Resources/Trips_by_Gender_Weekday_per_Hour).PNG)
+![alt text](Resources/Trips_by_Gender_Weekday_per_Hour.PNG)
 
 This heatmap shows us the popular days of the week for each of the three recorded gender categories between two types of bike-sharing user being either customer of subscriber.
-![alt text](Resources/User_Trips_by_Gender_by_Weekday).PNG)
+![alt text](Resources/User_Trips_by_Gender_by_Weekday.PNG)
 
 This geographical heatmap displays the popularity of places in New York city where users begin bike rides with larger darker circles representing more use and smaller lighter circles representing less.
-![alt text](Resources/Top_Starting_Locations).PNG)
+![alt text](Resources/Top_Starting_Locations.PNG)
 
 This pie chart shows the total use of each type of user being either subscriber or customer in the overall whole of bike-share use.
-![alt text](Resources/Average_Trip_Duration).PNG)
+![alt text](Resources/Average_Trip_Duration.PNG)
 
 ## Summary
 
